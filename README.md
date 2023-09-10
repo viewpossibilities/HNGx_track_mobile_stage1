@@ -1,7 +1,7 @@
 # HNGx_track_mobile_stage1
 # Hngx Stage One
 
-A Flutter application to showcase the GitHub profile of Ubamadu Possible. (Appetize Link: https://appetize.io/manage/2txbldo54sw4mvcxu6hazevaf4)
+A Flutter application to showcase the GitHub profile of Ubamadu Possible. (Appetize Link: https://appetize.io/app/2txbldo54sw4mvcxu6hazevaf4)
 
 ## Getting Started
 
